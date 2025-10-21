@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Products — SEVEK RESOURCES</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand"><div class="logo">SR</div><div><h1>SEVEK RESOURCES</h1><div class="kicker">Safety gadgets • Services • General goods</div></div></div>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="services.html">Services</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2>Products</h2>
+    <p class="muted">Browse our catalog and contact us to place an order.</p>
+    <div class="grid" style="margin-top:12px;">
+      <article class="card">
+        <div class="product-img">Helmet</div>
+        <h4>Safety Helmet</h4>
+        <p class="muted">Industrial hard hat for head protection.</p>
+        <p><a class="btn" href="mailto:samekve@gmail.com?subject=Order%20-%20Safety%20Helmet">Email</a> <a class="btn" href="https://wa.me/2348020709665?text=I%20am%20interested%20in%20the%20Safety%20Helmet" target="_blank" rel="noreferrer">WhatsApp</a></p>
+      </article>
+
+      <article class="card">
+        <div class="product-img">Vest</div>
+        <h4>Reflective Vest</h4>
+        <p class="muted">High-visibility reflective safety vest.</p>
+        <p><a class="btn" href="mailto:samekve@gmail.com?subject=Order%20-%20Reflective%20Vest">Email</a> <a class="btn" href="https://wa.me/2348020709665?text=I%20am%20interested%20in%20the%20Reflective%20Vest" target="_blank" rel="noreferrer">WhatsApp</a></p>
+      </article>
+
+      <article class="card">
+        <div class="product-img">Boots</div>
+        <h4>Safety Boots</h4>
+        <p class="muted">Steel-toe protective boots.</p>
+        <p><a class="btn" href="mailto:samekve@gmail.com?subject=Order%20-%20Safety%20Boots">Email</a> <a class="btn" href="https://wa.me/2348020709665?text=I%20am%20interested%20in%20the%20Safety%20Boots" target="_blank" rel="noreferrer">WhatsApp</a></p>
+      </article>
+
+      <article class="card">
+        <div class="product-img">Gloves</div>
+        <h4>Cut-resistant Gloves</h4>
+        <p class="muted">Durable hand protection gloves.</p>
+        <p><a class="btn" href="mailto:samekve@gmail.com?subject=Order%20-%20Cut-resistant%20Gloves">Email</a> <a class="btn" href="https://wa.me/2348020709665?text=I%20am%20interested%20in%20the%20Cut-resistant%20Gloves" target="_blank" rel="noreferrer">WhatsApp</a></p>
+      </article>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>SEVEK RESOURCES</strong>
+        <div class="muted">Port Harcourt, Rivers State, Nigeria</div>
+      </div>
+      <div class="contact">
+        <div class="muted">Email: <a href="mailto:samekve@gmail.com">samekve@gmail.com</a></div>
+        <div class="muted">Phone: <a href="tel:08020709665">08020709665</a></div>
+      </div>
+    </div>
+  </footer>
+
+  <a class="whatsapp-float" href="https://wa.me/2348020709665" target="_blank" rel="noreferrer">WhatsApp</a>
+</body>
+</html>

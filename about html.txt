@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About — SEVEK RESOURCES</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand"><div class="logo">SR</div><div><h1>SEVEK RESOURCES</h1><div class="kicker">Safety gadgets • Services • General goods</div></div></div>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="products.html">Products</a>
+        <a href="services.html">Services</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2>About SEVEK RESOURCES</h2>
+    <p class="muted">SEVEK RESOURCES provides safety equipment and services based in Port Harcourt, Rivers State, Nigeria. Our mission is to ensure workplaces and communities are safer through quality products and professional services.</p>
+    <div class="card" style="margin-top:12px;">
+      <h4>Mission</h4>
+      <p class="muted">To supply dependable safety equipment and provide professional safety services that reduce workplace risks.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>SEVEK RESOURCES</strong>
+        <div class="muted">Port Harcourt, Rivers State, Nigeria</div>
+      </div>
+      <div class="contact">
+        <div class="muted">Email: <a href="mailto:samekve@gmail.com">samekve@gmail.com</a></div>
+        <div class="muted">Phone: <a href="tel:08020709665">08020709665</a></div>
+      </div>
+    </div>
+  </footer>
+
+  <a class="whatsapp-float" href="https://wa.me/2348020709665" target="_blank" rel="noreferrer">WhatsApp</a>
+</body>
+</html>
